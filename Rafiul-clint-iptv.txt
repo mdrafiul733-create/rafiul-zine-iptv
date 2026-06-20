@@ -10,6 +10,24 @@ http://172.17.50.112:84/ant1002/video.m3u8
 #EXTINF:-1,FIFA SERVER 3
 http://172.17.50.112:84/ant1003/video.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co.com/fVcrTx15/Espn.png" group-title="Sports",ESPN {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://i.ibb.co.com/Hpgk0Tmr/Espn-2.png" group-title="Sports",ESPN 2 {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/101/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://i.ibb.co.com/FktCPSSS/espn-3.webp" group-title="Sports",ESPN 3 {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
+
+#EXTINF:-1 tvg-id="WIN Sports" tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="Sports",WIN Sports {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg" group-title="Sports",Bein Sports 1 {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sports Xtra" tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="Sports",Bein Sports Xtra {FIFA}
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1,BTV NEWS HD
 http://172.31.235.10:8080/hls/2-btvnews/index.m3u8
 
