@@ -11,7 +11,7 @@ http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FIFA SERVER 4
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1,BTV NEWS HD
 http://172.31.235.10:8080/hls/2-btvnews/index.m3u8
@@ -38,7 +38,7 @@ http://172.31.235.10:8080/hls/13-mytv/index.m3u8
 http://172.31.235.10:8080/hls/14-atnnews/index.m3u8
 
 #EXTINF:-1,SOMOY TV HD
-http://172.31.235.10:8080/hls/17-somoy/index.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1,INDEPENDENT SD
 http://172.31.235.10:8080/hls/18-independent/index.m3u8
@@ -83,7 +83,7 @@ http://172.31.235.10:8080/hls/35-nexus/index.m3u8
 http://172.31.235.10:8080/hls/36-global/index.m3u8
 
 #EXTINF:-1,EKHON SD
-https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 
 #EXTINF:-1,CHANNEL S HD
 http://172.31.235.10:8080/hls/38-channel-s/index.m3u8
@@ -106,17 +106,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1,Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1,Movie
-https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/fb87bb06-b4a2-48c3-adcb-cd4b0d6e312f/0.m3u8
-
 #EXTINF:-1,GOLDMINES
 https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
-
-#EXTINF:-1,Crimes
-https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
-
-#EXTINF:-1,Saudi Quran
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8
 
 #EXTINF:-1,Nikky
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
@@ -141,9 +132,3 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,Delicious
-https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-
-#EXTINF:-1,Discovery
-https://sm-monirul.top/toffee/play.php?cid=discovery_sd&chunks=38496b5a423252453553466433754659456e3253496f56625739676e4b3269762f39427a3970626a7456635368693779546f664271695a572b344b646c71695738466a6a50336643616a736e636a56473354322b596b795963783156785a7951493176744d4d6b31786335687444443437766c485842614854524a655337354b4473576668482f446531315a41476d71577a374762785731314f596c644f62467964484552646a524d6d6c665a656d4554492f6d4a535479646e556644326b384f5677457259636d7a3076496b41385a4a38613177773d3d5677457259636d7a3076496b41385a4a38613177773d3d
