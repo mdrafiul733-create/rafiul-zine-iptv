@@ -8,13 +8,13 @@ http://172.31.235.10:8080/hls/34-tsportssd/index.m3u8
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FIFA SERVER 3
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FIFA SERVER 4
-https://tfx43gr3uomttgr31hp3tfa3dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8086978a02d5f30423e11259-178261313284446&wsIPSercert=2f4d2b87a1b02e0a5adf9348b463ac0e&wsBindIP=2&wsserid=1168201446950356247
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1,FIFA SERVER 5
-https://play1.gzxdby.com/live/783234345958_4547667094_1080p.m3u8
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1,FIFA SERVER 6
 
